@@ -1,5 +1,3 @@
-# Blog_application
-
 # Blog Application
 
 The Blog Application is a platform for creating, managing, and sharing blog posts. It provides a user-friendly interface for both writers and readers, allowing writers to compose and publish articles and readers to explore and engage with the content.
